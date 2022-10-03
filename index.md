@@ -13,6 +13,8 @@ I am originally from the **California Bay Area** and love trying out new restaur
 2. Pho
 3. Burritos
 
+If you want to read about my programming experience, you can click [here](https://github.com/michaelliann/CSE-110-Michael-Lian/blob/main/index.md#programming-experience).
+
 ## Programming Experience
 
 Throughout my three years here at UCSD, I have learned a lot and gained plenty of programming experience. At first, I was intimidated by programming since CSE 8A was my first time learning how to write code. However, I am now much more confident in my programming skills after taking the following programming classes:
