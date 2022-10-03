@@ -3,7 +3,7 @@
 ## About me
 
 My name is Michael Lian and I am currently a third year at USCD majoring in Mathematics and Computer Science. Some of my hobbies outside of programming are
-lifting weights, cooking, fashion, and hiking.
+lifting weights, cooking, fashion, and hiking. My favorite exercise to do are squats. Some things that I would love to do are travel more, learn how to dance, and get better at golf.
 
 <img src='https://i.imgur.com/bZWz6KU.jpg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -12,6 +12,10 @@ I am originally from the **California Bay Area** and love trying out new restaur
 1. Rice
 2. Pho
 3. Burritos
+
+I also have a plant at my apartment.
+
+<img src='https://i.imgur.com/tuPJ9Rt.jpg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 If you want to read about my programming experience, you can click [here](https://github.com/michaelliann/CSE-110-Michael-Lian/blob/main/index.md#programming-experience).
 
@@ -32,7 +36,9 @@ Through these classes, I have learned languages such as:
 - [x] C
 - [x] C++
 
-Through the skills that I have learned in class, I was able to do my own side projects ([such as this](https://github.com/michaelliann/LitFit)) and work as a Software Developer Intern at General Atomics during the summer of 2022. Through this experience, I gained experience in C# and real world software development. From going from writing ```print("Hello, World")``` in Python as my first line of code to learning all these different languages and gaining real world experience is something that I am proud of. I am always yearning to learn more to improve my skills. As Vince Lombardi once said:
+Through the skills that I have learned in class, I was able to do my own side projects ([such as this](https://github.com/michaelliann/LitFit)) and work as a Software Developer Intern at General Atomics during the summer of 2022. Through this experience, I gained experience in C# and real world software development.
+
+From going from writing ```print("Hello, World")``` in Python as my first line of code to learning all these different languages and gaining real world experience is something that I am proud of. I am always yearning to learn more to improve my skills. As Vince Lombardi once said:
 
 > Practice makes perfect.
 
